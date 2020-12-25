@@ -1,0 +1,53 @@
+ALPACA_DT:
+RAGE > EXPLOITS
+
+- Enable Break LC and Instant DT in Break Extras
+- Shift (16)
+- Single fire shift (14)
+https://i.imgur.com/z9pVAAh.png
+
+
+CUSTOM_AA:
+RAGE > Custom Anti Aim
+RAGE > General
+
+- Use custom anti-aim
+
+Builder setting left:
+- Real (-3)
+- Fake (-55)
+- Real yaw offset (2)
+- Fake yaw offset (8)
+- Use eye yaw for LBY
+
+Builder setting right:
+- Real (8)
+- Fake (55)
+- Real yaw offset (2)
+- Fake yaw offset (7)
+- Use eye yaw for LBY
+
+https://i.imgur.com/REF5a0L.png
+https://i.imgur.com/tYg1WXc.png
+https://i.imgur.com/DysgcKB.png
+
+
+
+FOG:
+
+- Enable color enhancement
+- Fog correction
+- Color (#B2A8A3)
+- Distance (5413)
+- Density (45)
+
+https://i.imgur.com/87BJ4JJ.png
+
+
+BLOOM:
+VISUALS > BLOOM
+
+- World exposure (12.5)
+- Bloom scale (20)
+
+https://i.imgur.com/5nMqn0T.png
